@@ -1,4 +1,5 @@
 const a = "Hello";
 const b = "World";
+const c = "!";
 
-console.log(a, b);
+console.log(a, b, c);
